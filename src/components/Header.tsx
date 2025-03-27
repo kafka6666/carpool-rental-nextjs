@@ -11,7 +11,7 @@ const Header = () => {
   
   return (
     <nav 
-      className="flex justify-between items-center px-[2%] md:px-[2%] h-16 shadow-md sticky top-0 dark:bg-gray-800 dark:text-white dark:shadow-gray-800"
+      className="flex justify-between items-center px-[2%] md:px-[2%] h-16 shadow-md sticky top-0 z-50 bg-white dark:bg-gray-800 dark:text-white dark:shadow-gray-800"
     >
       <Logo />
       {/* NavLink will only be visible on mobile when open is true */}

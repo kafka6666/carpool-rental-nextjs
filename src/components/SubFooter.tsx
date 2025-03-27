@@ -20,7 +20,7 @@ const SubFooter = () => {
             <MdCardTravel className="text-orange-500" />
           </span>
           <div className="flex flex-col gap-2">
-            <h5 className="text-2xl text-gray-900 font-bold">Office</h5>
+            <h5 className="text-2xl text-orange-500 font-bold">Office</h5>
             <p className="mb-4 text-base text-gray-500 border-l-4 border-third-color pl-4">
               Seeking Office Transportation Services? Contact Us to Customize
               Your monotonous Working Day!
@@ -32,7 +32,7 @@ const SubFooter = () => {
             <IoCarSport className="text-orange-500" />
           </span>
           <div className="flex flex-col gap-2">
-            <h5 className="text-2xl text-gray-900 font-bold">Our fleet</h5>
+            <h5 className="text-2xl text-orange-500 font-bold">Our fleet</h5>
             <p className="mb-4 text-base text-gray-500 border-l-4 border-third-color pl-4">
               Discover the Perfect Ride for Any Event - What’s Your Selection?
             </p>
@@ -43,7 +43,7 @@ const SubFooter = () => {
             <IoMdContacts className="text-orange-500" />
           </span>
           <div className="flex flex-col gap-2">
-            <h5 className="text-2xl text-gray-900 font-bold">About Us</h5>
+            <h5 className="text-2xl text-orange-500 font-bold">About Us</h5>
             <p className="mb-4 text-base text-gray-500 border-l-4 border-third-color pl-4">
               Discover Unmatched Luxury Travel with CarPool in Dhaka’s
               Finest Experience.
