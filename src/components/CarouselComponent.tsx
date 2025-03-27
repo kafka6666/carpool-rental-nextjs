@@ -4,19 +4,19 @@ import {
     Carousel,
     CarouselContent,
     CarouselItem,
-    // CarouselNext,
-    // CarouselPrevious,
+    CarouselNext,
+    CarouselPrevious,
   } from "@/components/ui/carousel"
   import { Card, CardContent } from "@/components/ui/card";
   import { profile } from "@/constants/appdata";
-  // import AutoPlay from "embla-carousel-autoplay";
+  import AutoPlay from "embla-carousel-autoplay";
 
 const CarouselComponent = () => {
   return (
     <Carousel 
-    //   plugins={[AutoPlay({
-    //   delay: 3000
-    // })]}
+      plugins={[AutoPlay({
+      delay: 3000
+    })]}
     >
         <CarouselContent>
             {
@@ -56,8 +56,8 @@ const CarouselComponent = () => {
               ))
             }
         </CarouselContent>
-        {/* <CarouselPrevious />
-        <CarouselNext /> */}
+        <CarouselPrevious />
+        <CarouselNext />
     </Carousel>
   )
 }
