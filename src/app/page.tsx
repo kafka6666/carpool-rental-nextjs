@@ -6,8 +6,8 @@ import OurObjective from "@/components/OurObjective";
 export default function Home() {
   return (
     <div className="w-full">
-      <CarouselComponent />
       <div className="relative">
+        <CarouselComponent />
         <Explore />
         <SubFooter />
         <OurObjective />
