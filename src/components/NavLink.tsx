@@ -10,7 +10,7 @@ interface NavLinkProps {
 
 const navlinks = [
   { href: "/", label: "Home" },
-  { href: "/booking", label: "Booking" },
+  // { href: "/booking", label: "Booking" },
   { href: "/local", label: "Local" },
   { href: "/services", label: "Services" },
   { href: "/our-fleet", label: "Our Fleet" },

@@ -70,7 +70,7 @@ export const homeCards = [
 export const serviceList = [
   {
     id: 1,
-    text: "Experience top-level unwavering quality and extravagance with our Melbourne Air terminal exchanges. Whether you're an independent voyager or with family, we offer a warm meet-and-welcome help, gear help, and continuous traffic and flight following for reliable appearances. Sit back, loosen up, and show up revived, day or night.",
+    text: "Experience top-level unwavering quality and extravagance with our Hazrat Shah Jalal International Air terminal exchanges. Whether you're an independent voyager or with family, we offer a warm meet-and-welcome help, gear help, and continuous traffic and flight following for reliable appearances. Sit back, loosen up, and show up revived, day or night.",
     title: "Airport transfers",
     img: "/airport-transfer-update.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -78,7 +78,7 @@ export const serviceList = [
   },
   {
     id: 2,
-    text: "Hoist the recollections of your impending exceptional occasion with Limolux. Whether it's a wedding, hen's party, or birthday festivity, add a bit of extravagance with our flawless vehicles. Need space for an enormous gathering? Arrive in ultimate style, day or night, with our 15-seater Mercedes Benz Runner at your service. It's not just transportation; it's an experience tailored to ensure you and your guests make a grand entrance.",
+    text: "Hoist the recollections of your impending exceptional occasion with CarPool. Whether it's a wedding, hen's party, or birthday festivity, add a bit of extravagance with our flawless vehicles. Need space for an enormous gathering? Arrive in ultimate style, day or night, with our 15-seater Mercedes Benz Runner at your service. It's not just transportation; it's an experience tailored to ensure you and your guests make a grand entrance.",
     title: "Weddings and parties",
     img: "/parties.jpg",
     variant1: fadeIn("left", "tween", 0.2, 1),
@@ -86,7 +86,7 @@ export const serviceList = [
   },
   {
     id: 3,
-    text: "Limolux escort excels in corporate, executive, and celebrity transportation, ensuring a serene and seamless journey on every ride. Whether you're meeting a valued client or attending a pivotal business appointment, our service ensures you arrive in a state of relaxation and rejuvenation, allowing you to concentrate on what truly matters. We take pride in delivering smooth, expert, and dependable experiences, without fail.",
+    text: "CarPool escort excels in corporate, executive, and celebrity transportation, ensuring a serene and seamless journey on every ride. Whether you're meeting a valued client or attending a pivotal business appointment, our service ensures you arrive in a state of relaxation and rejuvenation, allowing you to concentrate on what truly matters. We take pride in delivering smooth, expert, and dependable experiences, without fail.",
     title: "Corporate transfers",
     img: "/blog-3.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -102,20 +102,20 @@ export const serviceList = [
   },
   {
     id: 5,
-    text: "Melbourne positions among Australia's top traveler areas of interest, and Limolux offers you a definitive freedom to find the state's famous attractions. Permit us to direct you along the pleasant Extraordinary Sea Street in sheer plushness, empowering you to appreciate the view and encounters at your own relaxed speed.",
+    text: "Historical positions among Bangladesh's top traveler areas of interest, and CarPool offers you a definitive freedom to find the state's famous attractions. Permit us to direct you along the pleasant Extraordinary Sea Street in sheer plushness, empowering you to appreciate the view and encounters at your own relaxed speed.",
     title: "Sightseeing",
     img: "/sightseeing.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
     variant2: fadeIn("left", "tween", 0.2, 1),
   },
-  {
-    id: 6,
-    text: "Investigate Victoria's head wineries and shop bottling works, crossing from the Mornington Promontory to the Yarra Valley. Travel flawlessly and securely between these uncommon locations in our lavish driver driven vehicles. Whether it's a heartfelt event with an accomplice or a gathering experience, raise your involvement in Limolux, and do it with unequaled style.",
-    title: "Wine tours",
-    img: "/wine-tour.jpg",
-    variant1: fadeIn("left", "tween", 0.2, 1),
-    variant2: fadeIn("right", "tween", 0.2, 1),
-  },
+  // {
+  //   id: 6,
+  //   text: "Investigate Victoria's head wineries and shop bottling works, crossing from the Mornington Promontory to the Yarra Valley. Travel flawlessly and securely between these uncommon locations in our lavish driver driven vehicles. Whether it's a heartfelt event with an accomplice or a gathering experience, raise your involvement in Limolux, and do it with unequaled style.",
+  //   title: "Wine tours",
+  //   img: "/wine-tour.jpg",
+  //   variant1: fadeIn("left", "tween", 0.2, 1),
+  //   variant2: fadeIn("right", "tween", 0.2, 1),
+  // },
   {
     id: 7,
     text: "For the people who request only the best, entertain yourself with our top-level cars, guaranteeing your appearance radiates lavishness and complexity. Our premium fleet proudly showcases regarded models like the BMW 7 Series, Mercedes Benz S-Class, and Audi A8, among others, famous for their unparalleled solace and execution in the present market. Matched with our master drivers, you're in for a sumptuous and raised insight.",
